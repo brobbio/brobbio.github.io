@@ -1,0 +1,4 @@
+baseURL = "http://brobbio.github.io/"
+languageCode = "en-us"
+title = "Personal webpage"
+theme = "ananke"
